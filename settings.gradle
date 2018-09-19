@@ -1,0 +1,4 @@
+rootProject.name = 'study-java-homework'
+include 'sort-by-date'
+findProject(':sort-by-date')?.name = 'study-java-homework'
+
